@@ -1,1 +1,1 @@
-import './module-name';
+import './nkshio';
